@@ -1,2 +1,2 @@
 # PY-GIT
-# this is a about python coding. 
+# this is a context about python coding. 
